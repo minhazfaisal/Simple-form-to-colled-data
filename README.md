@@ -5,3 +5,5 @@ Features
 - Simple Integration: Easily embed the form anywhere on your site using the shortcode [cs_form].
 - Data Persistence: Automatically saves all submissions directly to the database.
 - Admin Dashboard: Review, manage, and track all incoming messages directly from your admin panel.
+
+Just download cs-form folder and put into your plugins folder, then install.
